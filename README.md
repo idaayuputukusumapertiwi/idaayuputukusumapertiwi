@@ -19,7 +19,8 @@
 ## 📃 Certificate
 
 **Timedoor Academy - Teens Programmer**  
-*Completed on November 2023*
+Completed on November 2023
+
 <img src="https://github.com/idaayuputukusumapertiwi/idaayuputukusumapertiwi/blob/main/timedoorcertif.jpg?raw=true" width="400">
 
 
