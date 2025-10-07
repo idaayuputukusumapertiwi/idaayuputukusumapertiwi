@@ -1,9 +1,11 @@
-# About Me
-👋 Hi, I’m Kusuma Pertiwi
-💻 I'm a student of SMK Negeri 2 Tabanan majoring in Software Engineering
-🚀 Passionate about developing and designing modern web-based systems
-👩🏿‍💻 Currently learning system development using PHP Native and MySQL while exploring the fundamentals of Fullstack Web Development
-🎯 Interested in both back-end logic and front-end design to create efficient, user-friendly applications
+
+## 🦁 About Me  
+
+👋 Hi, I’m **Kusuma Pertiwi**  
+💻 I'm a student of **SMK Negeri 2 Tabanan**, majoring in **Software Engineering**  
+🚀 Passionate about developing and designing modern web-based systems  
+🧑‍💻 Currently learning **system development using PHP Native and MySQL**, while exploring the fundamentals of **Fullstack Web Development**  
+🎯 Interested in both back-end logic and front-end design to create efficient, user-friendly applications  
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
