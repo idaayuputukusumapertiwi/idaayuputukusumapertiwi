@@ -17,6 +17,9 @@
 ![CANVA](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## 📃 Certificate
+**Timedoor Academy - Teens Programmer
+*Completed on November 2025*  
+![timedoorcertif](https://github.com/user-attachments/assets/55f02783-a8bd-46eb-af12-d784e3e67872)
 
-!<img src="(https://github.com/user-attachments/assets/8802f57d-9ad0-4ac2-b743-d6577c6320fc)" width="400" height="auto">
+
 
