@@ -25,7 +25,7 @@ Completed on November 2023
 
 <br>
 <b>Praktek Kerja Lapangan-Kayana Creative</b><br>
-<i>Completed on December 2024</i><br>
+Completed on December 2024<br>
 <img src="https://raw.githubusercontent.com/idaayuputukusumapertiwi/idaayuputukusumapertiwi/main/SERTIF%20PKL.jpg" width="400">
 
 
